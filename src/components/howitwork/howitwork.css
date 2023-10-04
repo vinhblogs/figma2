@@ -1,0 +1,34 @@
+.how-it-works {
+    width: 1440px;
+    height: 384px;
+    margin: 0 auto;
+    background: #FFFCFC;
+    border:  2px solid black;
+}
+.how-it-works{
+    display: flex;
+}
+.how-it-works-right{
+    display: flex;
+}
+.how-it-works-left{
+    margin-right: 150px;
+}
+.how-it-works-left h1{
+    color:var(--third-color);
+    width: 167px;
+    height: 116px;
+    margin-left: 135px;
+    margin-top: 72px;
+    font-size: 48px;
+    line-height: 58px;
+}
+.how-it-works-left p{
+    width: 245px;
+    height: 78px;
+    line-height: 26px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 135px;
+    margin-top: 20px;
+}

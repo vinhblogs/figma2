@@ -1,0 +1,32 @@
+.button-bg-blue{
+    width: auto;
+    height: auto;
+    padding:15px 35px;
+    background-color: #6347F9;
+    color: white;
+}
+.button-bg-blue-big{
+    width: auto;
+    height: auto;
+    padding:20px 35px;
+    background-color: #6347F9;
+    color: white;
+}
+.button-bg-white-center{
+    width: auto;
+    height: auto;
+    padding:20px 50px;
+    background-color: var(--secondary-color);
+    color: var(--five-color);
+    border: 2px solid var(--five-color);
+    font-weight: 540;
+    font-size: 20px;
+}
+.button-bg-blue-small{
+    width: auto;
+    height: auto;
+    padding:13px 16px;
+    background-color: #6347F9;
+    color:white;
+    font-size: 12px;
+}

@@ -1,0 +1,39 @@
+.holiday{
+    width: 1440px;
+    height: 826px;
+    border: 2px solid violet;
+    margin:  0 auto;
+    position: relative;
+}
+.holiday h1{
+    width: 454px;
+    height: 58px;
+    line-height: 58px;
+    color:var(---primary-color);
+    font-size: 48px;
+    font-family: "Poppins";
+    margin-left: 135px;
+    margin-top: 50px;
+}
+.holiday p{
+    width: 501px;
+    height: 52px;
+    color: var(--fouth-color);
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 135px;
+    margin-top: 10px;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-bottom: 60px;
+}
+.holiday-beach{
+    margin: 0 135px;
+    display: flex;
+    justify-content: space-between;
+}
+.holiday-btn{
+    position: absolute;
+    top:10%;
+    left:79%;
+}

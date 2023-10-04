@@ -1,0 +1,36 @@
+.special{
+   width: 1440px;
+   height: 818px;
+   border: 2px solid turquoise;
+   margin: 0 auto;
+}
+.special-mid{
+    display: flex;
+    justify-content: space-around;
+}
+.special-up h1{
+    width: 586px;
+    height: 58px;
+    line-height: 58px;
+    font-size: 46px;
+    color:var(---primary-color);
+    margin: 40px auto 20px auto;
+    
+}
+.special-up p{
+    width: 440px;
+    height: 52px;
+    line-height: 26px;
+    font-size: 16px;
+    color:var(--fouth-color);
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 450;
+}
+.special-down{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

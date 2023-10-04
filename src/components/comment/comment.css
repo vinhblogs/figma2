@@ -1,0 +1,38 @@
+.comment{
+    width: 1440px;
+    height:812px ;
+    border: 2px solid black;
+    margin:  0 auto;
+    background-color: #FFF3F3;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+.title-comment{
+    width: 475px;
+    height: 108px;
+    line-height: 54px;
+    font-size: 44px;
+    text-align: center;
+    margin: 74px auto 65px auto;
+}
+
+.card1{
+    margin:20px auto 40px auto;
+}
+.card-left{
+    position: absolute;
+    top:42%;
+    left:9%;
+}
+.card-right{
+    position: absolute;
+    top:36%;
+    left:66%;
+}
+.prenext-comment{
+    position: absolute;
+    top:78%;
+    left:82%;
+}

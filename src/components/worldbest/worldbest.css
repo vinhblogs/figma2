@@ -1,0 +1,64 @@
+.worldbest{
+    width: 1440px;
+    height: 656px;
+    margin:0 auto;
+    display: flex;
+}
+.worldbest-left{
+    width: 550px;
+    height:530px ;
+    margin: 60px 120px 60px 135px;
+    position: relative;
+}
+.world-ballon{
+    position: absolute;
+    width: 363px;
+    height: 267px;
+    top:3%;
+    left:2%;
+}
+.world-ballon img{
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+}
+.world-library{
+    position: absolute;
+    width: 363px;
+    height: 267px;
+    top:40%;
+    left:25%;
+}
+.world-library img{
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+}
+.world-play{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top:55%;
+    left:50%;
+    cursor: pointer;
+}
+.world-play img{
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+}
+.world-verify{
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    top:85%;
+    left:5%;
+}
+.world-verify img{
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+}
+.worldbest-right{
+    width: auto;
+}

@@ -1,0 +1,76 @@
+.holiday-block{
+    width: 360px;
+    height: 540px;
+}
+.holiday-block-down-infor{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.holiday-block-down{
+    width: 360px;
+    height: 188px;
+}
+.holiday-block-down-infor{
+    display: flex;
+    flex-direction: column;
+}
+.holiday-country{
+    display: flex;
+    width: auto;
+    align-items: center;
+    height: 20px;
+}
+.holiday-country .conntry-map{
+    margin-right: 10px;
+}
+.holiday-block-down-infor h4{
+    width: auto;
+    height: 22px;
+    line-height: 22px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 15px;
+    color:var(---primary-color)
+}
+.timetable{
+    width: auto;
+    height: 12px;
+    line-height: 12px;
+    font-size: 14px;
+    color:var(--fouth-color);
+   margin-top: 20px;
+}
+.holiday-block-down-infor-buttom{
+    display: flex;
+    justify-content: space-between;
+    margin: 22px 30px 26px 20px;
+}
+.holiday-price{
+    width: 75px;
+    height: 32px;
+    padding-bottom: 2px;
+    color:var(--five-color);
+    font-size: 28px;
+    line-height: 27px;
+    font-weight: 600;
+    border: 2px solid var(--five-color);
+}
+.holiday-star{
+    display: flex;
+    width: 61px;
+    height: 22px;
+    justify-content: space-between;
+    align-items: center;
+}
+.star-icon{
+    width: 18px;
+    height: 17px;
+}
+.star-icon img{
+    width: 100%;
+    height: 100%;
+}
+.point-star{
+    color:var(--fouth-color);
+    font-size: 22px;
+}
